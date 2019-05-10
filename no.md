@@ -1,2 +1,4 @@
 # yufryri
 ## hfhgk
+
+select*from
