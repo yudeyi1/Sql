@@ -1,4 +1,3 @@
 # yufryri
 ## hfhgk
-
 select*from
